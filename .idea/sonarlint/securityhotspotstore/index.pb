@@ -1,0 +1,34 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+K
+src/main/java/dao/IDao.java,7\d\7dfde54a3b20093df62489891e259613d82b406f
+O
+src/main/java/dao/IDaoImpl.java,f\3\f304d05bb791492ce45e7f144db40a339e67d06d
+Q
+!src/main/java/metier/IMetier.java,9\d\9db777b696eb3ec67fd6dd426a994e5946210907
+U
+%src/main/java/metier/IMetierImpl.java,4\b\4b833aaac2def41b9cf88ede33884937d2389f3f
+^
+.src/main/java/presentation/PresentationV1.java,c\9\c9e9bdb8bc5f7cd5d6e07e48a110ef511558ec5c
+O
+src/main/java/ex/DaoImplV2.java,4\7\472706511fef60c2d7506f5ba1e86a159e6fb6d6
+:
+
+config.txt,3\2\326d07a343a96956109e65faecde6fea3a7d2ad9
+^
+.src/main/java/presentation/PresentationV2.java,a\6\a685a06590353e48c70ea0000e0b4c84f76f68b1
+^
+.src/main/java/presentation/PresentationV3.java,6\4\6410971f58dc5435b7db2d41fcfb0bc591681d80
+Q
+!src/main/java/dao/IDaoImplV2.java,b\5\b53a2d1ba24fc01ee729500a0f97b5db4a6d787b
+^
+.src/main/java/presentation/PresentationV4.java,6\7\674658a2cb892e4df4003819a60d36e16a7cb693
+l
+<src/main/java/presentation/PresentationSpringAnnotation.java,9\b\9b8ea8b212484c7cf3267a85fc46f3be4d826e86
+b
+2src/main/java/presentation/PresentationStatic.java,b\1\b15c27808e539ca6fe542b90c46eea1e1b80cfec
+c
+3src/main/java/presentation/PresentationDinamic.java,a\f\af37a36da87e400e9c3b8107c60d8d5f459803a6
+_
+/src/main/java/presentation/PresentationXml.java,f\c\fc24a2c3bb30cd6bfe57fe89129b79a3e22c9331
